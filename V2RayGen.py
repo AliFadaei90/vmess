@@ -36,7 +36,7 @@ SHADOWSOCKS = "shadowsocks.json"
 OBFS = "docker-compose.yml"
 
 # PORT
-PORT = 80
+PORT = 9999
 
 # Docker Compose Version
 DOCKERCOMPOSEVERSION = "2.11.2"
